@@ -7,3 +7,4 @@ Aula 01 - História da Internet - Ok
 Aula 02 - História da HTML5 - Ok
 Aula 03 - Como funciona a internet? - Ok
 Aula 04 - Primeiro Exemplo em HTML5 - Ok
+Aula 05 - Tags básicas em HTML5
